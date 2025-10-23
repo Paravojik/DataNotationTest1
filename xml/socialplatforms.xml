@@ -1,0 +1,46 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<social_networks>
+    <network>
+        <name domain="www.facebook.com" languages="111" >Facebook</name>
+        <users male_users="1.760.000.000" female_users="1.760.000.000">3.000.000.000</users>
+        <founder year_founded="2003" active="yes" >Mark Zuckerberg</founder>
+        <owner year_bought="2021" number_of_owners="4" >Meta</owner>
+    </network>
+
+    <network>
+        <name domain="www.instagram.com" languages="90">Instagram</name>
+        <users male_users="1.760.000.000" female_users="1.760.000.000">2.500.000.000</users>
+        <founder year_founded="2003" active="yes">Kevin Systrom</founder>
+        <owner year_bought="2021" number_of_owners="4">Meta</owner>
+    </network>
+
+    <network>
+        <name domain="www.tiktok.com" languages="50">TikTok</name>
+        <users male_users="750.000.000" female_users="750.320.000" >1.500.000.000</users>
+        <founder year_founded="2016" active="yes">Zhang Yiming</founder>
+        <owner year_bought="2021" number_of_owners="4" >ByteDance</owner>
+    </network>
+
+    <network>
+        <name domain="www.whatsapp.com" languages="100">WhatsApp</name>
+        <users male_users="750.000.000" female_users="750.320.000" >3.100.000.000</users>
+        <founder year_founded="2003" active="yes" >Jan Kum</founder>
+        <owner year_bought="2021" number_of_owners="5">Meta</owner>
+    </network>
+
+    <network>
+        <name domain="www.youtube.com" languages="120">YouTube</name>
+        <users male_users="750.000.000" female_users="750.320.000" >2.700.000.000</users>
+        <founder year_founded="2010" active="yes">Jawed Karim</founder>
+        <owner year_bought="2014" number_of_owners="1">Google</owner>
+    </network>
+
+    <network>
+        <name domain="www.x.com" languages="50">X</name>
+        <users male_users="750.000.000" female_users="750.320.000" >557.000.000</users>
+        <founder year_founded="2001" active="yes">15.000</founder>
+        <owner year_bought="2023" number_of_owners="3" >xAI</owner>
+    </network>
+
+
+</social_networks>
