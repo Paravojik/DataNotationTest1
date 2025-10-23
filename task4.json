@@ -1,0 +1,23 @@
+{
+    "title" : "social networking apps",
+    "applications" : 
+    [
+        {
+            "applicationName" : "facebook"
+        },
+        {
+            "applicationName" : "twitter"
+        }
+    ],
+    "description" : "is a type of online social media platform which people use to build social networks or social relationships with other people",
+    "firstSocialNetworkingYear" : 1994,
+    "facebookUsersInBillion" : 3.04,
+    "facebookDevelopmentYear" : 2003,
+    "isDevelopedInUS" : true,
+    "twitterFeatures" :
+    {
+        "applicationName" : "twitter",
+        "currentName" : "X",
+        "founder" : "Jack Dorsey"
+    }
+}
