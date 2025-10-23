@@ -27,6 +27,6 @@ Here is a table of the most popular social netwoking services. This table shows 
 ## IMAGES
 Here are some images:
 
-![1img](https://socialenginecom.b-cdn.net/wp-content/uploads/2024/09/Top-15-Features-of-a-Social-Networking-Site.webp) 
+![1img](https://miro.medium.com/v2/resize:fit:1400/1*2IGeFZ8zfJlpvtKJocIPDQ.png) 
 ![2img](https://www.investopedia.com/thmb/SVelZK_5qwSFqn68q_y0rXhPMKc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/socialnetworking-13cadb0b8b5941ab999a13c06e468821.jpg)
 ![3img](./IMG/3img.jpg)
