@@ -1,0 +1,46 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<social_networks>
+    <network>
+        <name>Facebook</name>
+        <users>3.000.000.000</users>
+        <founder>Mark Zuckerberg</founder>
+        <owner>Meta</owner>
+    </network>
+
+    <network>
+        <name>Instagram</name>
+        <users>2.500.000.000</users>
+        <founder>Kevin Systrom</founder>
+        <owner>Meta</owner>
+    </network>
+
+    <network>
+        <name>TikTok</name>
+        <users>1.500.000.000</users>
+        <founder>Zhang Yiming</founder>
+        <owner>ByteDance</owner>
+    </network>
+
+    <network>
+        <name>WhatsApp</name>
+        <users>3.100.000.000</users>
+        <founder>Jan Kum</founder>
+        <owner>Meta</owner>
+    </network>
+
+    <network>
+        <name>YouTube</name>
+        <users>2.700.000.000</users>
+        <founder>Jawed Karim</founder>
+        <owner>Google</owner>
+    </network>
+
+    <network>
+        <name>X</name>
+        <users>557.000.000</users>
+        <founder>15.000</founder>
+        <owner>xAI</owner>
+    </network>
+
+
+</social_networks>
